@@ -58,7 +58,7 @@ class FastPrint {
     public static PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out));
 }
 
-class Pie2 {
+class SPOJPIE {
 
   public static Double bSearch(Double low, Double high, int T, int F, Double[] vT) {
     Double middle = low + (high-low)/2;
