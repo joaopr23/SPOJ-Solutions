@@ -5,7 +5,7 @@ import java.util.*;
 import java.lang.Math;
 
 
- class Trigalge {
+ class SPOJTRIGALGE {
 
   public static Double func (Double A, Double B, Double x) {
     return A*x + B * Math.sin(x);
